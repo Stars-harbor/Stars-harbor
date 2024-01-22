@@ -1,2 +1,2 @@
 # Hi there 👋
-<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Stars-harbor" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stars-harbor)](https://github.com/ashutosh00710/github-readme-activity-graph)
